@@ -147,11 +147,11 @@ print("Inception Score: ", score)
 ```
 ---
 ## References
-# StackGAN Paper
+### StackGAN Paper
 wget https://arxiv.org/pdf/1612.03242.pdf
 
-# Generative Adversarial Networks - O'Reilly
+### Generative Adversarial Networks - O'Reilly
 curl -O https://learning.oreilly.com/library/view/generative-adversarial-networks/9781789136678/fe014a9e-b46b-4b94-ade5-5d2c98be4f66.xhtml
 
-# Medium Article on StackGAN
+### Medium Article on StackGAN
 curl -O https://medium.com/@mrgarg.rajat/implementing-stackgan-using-keras-a0a1b381125e
